@@ -1,4 +1,4 @@
 PCS
 ===
 
-Create a Plastimodel's Collection System
+Plastimodel Collection System
